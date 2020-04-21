@@ -14,7 +14,7 @@ We’ll have a one-on-one (1:1) meeting every week for 30 minutes. This meeting 
 
 As a guideline, we can follow a 10:10:10 format. 10 minutes for you. 10 minutes for me. 10 minutes about the future. This is just a guideline. If a meeting ends with 25 minutes with your topic and 5 minutes with mine, I consider it a success!
 
-Throughout the week as topics pop into your or my mind, we can post them in our Teams DM chat. The DM chat also becomes a handy historic record of what we’ve discussed. [TODO:Confirm]
+Throughout the week as topics pop into your or my mind, we can post them in our direct message (DM) chat. I consider this DM chat a perpetual asynchronous dialog between us. The DM chat also becomes a handy historic record of what we’ve discussed.
 
 I work a bit during odd hours (especially since I am currently located in a different time zone). I might message you things, but unless the thing says URGENT, it can always wait until work begins for you.
 
